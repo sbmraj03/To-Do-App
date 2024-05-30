@@ -1,4 +1,5 @@
-Angular Todo app
+Angular Todo app:
+
 Simple todo application, that is easy to understand and extend
 
 Features:
@@ -7,4 +8,8 @@ Features:
 - Easy to start: simply run the server and application to begin managing your tasks.
 - The to-do database is portable and can be used elsewhere with just a JSON file, without requiring anything special.
 
-
+Technologies used:
+- HTML
+- CSS
+- Angular
+- Bootstrap
