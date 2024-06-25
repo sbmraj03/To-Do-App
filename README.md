@@ -5,7 +5,7 @@
 Todo App is a simple task management application built with Angular and styled using Tailwind CSS. It allows users to organize their tasks efficiently with features like adding, editing, marking as completed, deleting tasks, and marking tasks as important. Tasks are stored locally using a fake API call backed by a `db.json` file.
 
 ## Screenshots
-
+![Screenshot (001)](https://github.com/sbmraj03/To-Do-App/assets/100986100/d4791063-d694-461e-bf27-ef803a73fc1f)
 
 
 ## Features
