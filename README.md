@@ -6,6 +6,11 @@ Todo App is a simple task management application built with Angular and styled u
 
 ## Screenshots
 ![Screenshot (001)](https://github.com/sbmraj03/To-Do-App/assets/100986100/d4791063-d694-461e-bf27-ef803a73fc1f)
+![Screenshot (002)](https://github.com/sbmraj03/To-Do-App/assets/100986100/a80a0cf5-b4cb-4bfc-90ad-f384a3938c02)
+![Screenshot (003)](https://github.com/sbmraj03/To-Do-App/assets/100986100/d496d793-d1a8-481a-81f0-9f79bb79a8ab)
+![Screenshot (004)](https://github.com/sbmraj03/To-Do-App/assets/100986100/9c1c3994-2deb-4cef-8851-429d575e1e65)
+![Screenshot (005)](https://github.com/sbmraj03/To-Do-App/assets/100986100/4c63871a-7333-4951-9739-64b22f5d916c)
+
 
 
 ## Features
