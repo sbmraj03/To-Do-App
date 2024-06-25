@@ -20,7 +20,6 @@ Todo App is a simple task management application built with Angular and styled u
 - **Mark as Completed**: Mark tasks as completed with a checkbox.
 - **Mark as Important**: Mark tasks as important for priority handling.
 - **Delete Task**: Remove tasks from the list.
-- **Responsive Design**: Fully responsive design for desktop and mobile browsers.
 
 ## Technologies Used
 
